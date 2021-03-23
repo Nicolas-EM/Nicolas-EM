@@ -23,3 +23,5 @@ Hi! I'm a Software Engineering Student at the Universidad Complutense de Madrid,
 
 ## Contact Me
 :email: nico.mooser@pm.me
+
+\> www.linkedin.com/in/nicolas-em/
