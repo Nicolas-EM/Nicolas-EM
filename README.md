@@ -18,6 +18,8 @@ Hi! I'm a Software Engineering Student at the Universidad Complutense de Madrid,
 * Text Minesweeper (1-Day Challenge)
 * Simple Image Manipulation (UCM Project)
 * Parcheesi (UCM Project)
+### Python
+* Automate the Boring Stuff
 
 ## Contact Me
 :email: nico.mooser@pm.me
